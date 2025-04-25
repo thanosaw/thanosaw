@@ -17,7 +17,7 @@ githubUsername: 'thanosaw'
 
 Hi, I'm Andrew Wang, a Computer Engineering Student at UCLA's School of Engineering. I'm currently interning at Adaptive Computing.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+
   
 **Some Things About Me:**
 
