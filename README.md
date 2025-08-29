@@ -8,21 +8,21 @@ githubUsername: 'thanosaw'
 
 ### Hey 👋🏽, I'm Andrew!
 
-<a href="[https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/andrew-wang-b5753b177/)">
+<a href="[https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/andruww/)">
   <img align="left" alt="Andrew's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Andrew Wang, a Computer Engineering Student at UCLA's School of Engineering. I'm currently interning at Adaptive Computing.
+Hi, I'm Andrew Wang, a Computer Engineering Student at UCLA's School of Engineering. I'm currently interning at Amazon
 
 
   
 **Some Things About Me:**
 
-- 👨🏽‍💻 I’m currently working on [Crypto Web-App](https://github.com/abhisheknaiidu/A-POP) and [Garfitti](https://github.com/thanosaw/garffiti);
-- 🌱 I’m currently learning Javascript and Databases
+- 👨🏽‍💻 I’m currently working at Amazon!
+- 🌱 I’m currently learning LLMs and Agentic AI
 - 📫 How to reach me: uswangandrew@g.ucla.edu;
 
 **Languages and Tools:**  
