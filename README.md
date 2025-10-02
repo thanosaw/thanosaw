@@ -24,13 +24,15 @@ I'm a **Software Engineer** passionate about building scalable systems, intuitiv
 ## Featured Projects
 Here are some of the projects that showcase my work:
 
-### [DevAtlas](https://github.com/thanosaw/devatlas)
+
+
+### [DevAtlas](https://github.com/thanosaw/devatlas) Was in charge of ideation and slack integrations! Helped with LLM + RAG integrations (Group hackathon project)
 > *Full-stack LLM-powered knowledge graph platform*
 - Built using **Next.js**, **FastAPI**, **Neo4j**, and **GraphRAG**
 - Unifies GitHub, Slack, and email data into a searchable knowledge graph
 - Natural language search for code ownership and workflow visualization
 
-### [ShelfAware](https://github.com/thanosaw/shelfaware)
+### [ShelfAware](https://github.com/thanosaw/shelfaware) Usually worked on my own branches, so check out the branches!
 > *Real-time smart fridge inventory tracking*
 - **YOLOv11** and **OpenAI GPT-4o API** to detect, classify, and track food items in real-time
 - Provides **recipe suggestions** and **shelf-life tracking** with 98% classification accuracy
