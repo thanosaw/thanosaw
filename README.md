@@ -1,69 +1,97 @@
-# Hi there, I'm Andrew Wang
+# Andrew
 
-I'm a **Software Engineer** passionate about building scalable systems, intuitive user experiences, and intelligent platforms that leverage modern technologies like **LLMs** and **computer vision**. I'm currently completing my **B.S. in Computer Engineering at UCLA (Dec 2025)**.
+**Software Engineer building systems that are fast, useful, and occasionally a little overengineered.**
 
----
+I like working at the intersection of **backend infrastructure, developer tooling, AI, and product engineering** — especially when there’s an interesting systems problem hiding underneath.
 
-## About Me
-- Former **Software Engineer Intern** at **Amazon**, **Circle**, and **Adaptive Computing**
-- Experienced in **full-stack development**, **backend architecture**, and **cloud-based systems**
-- Passionate about **developer tooling**, **AI-powered platforms**, and **scalable microservices**
-- Seeking opportunities to **innovate**, **ship impactful products**, and **lead high-performance teams**
+Most of my work revolves around turning messy ideas into things that actually work.
 
 ---
 
-## Tech Stack
-**Languages:** Python, Java, Kotlin, C/C++, JavaScript/TypeScript, SQL, Swift, Bash
+## What I Build
 
-**Frameworks & Tools:** React, Next.js, Node.js, AWS, Docker, Kubernetes, FastAPI, Flask, Neo4j, Git
-
-**Other Skills:** Cloud Architecture, REST API Design, Agile, CI/CD
+* Scalable backend systems and APIs
+* Developer tools and internal platforms
+* LLM-powered applications and retrieval systems
+* Full-stack products with an emphasis on clean architecture
+* Computer vision and real-time data pipelines
+* Automation for things I probably could have done manually
 
 ---
 
-## Featured Projects
-Here are some of the projects that showcase my work:
+## Selected Work
 
+### [DevAtlas](https://github.com/thanosaw/devatlas)
 
+**LLM-powered engineering knowledge graph**
 
-### [DevAtlas](https://github.com/thanosaw/devatlas) Was in charge of ideation and slack integrations! Helped with LLM + RAG integrations (Group hackathon project)
-> *Full-stack LLM-powered knowledge graph platform*
-- Built using **Next.js**, **FastAPI**, **Neo4j**, and **GraphRAG**
-- Unifies GitHub, Slack, and email data into a searchable knowledge graph
-- Natural language search for code ownership and workflow visualization
+Worked on product ideation, Slack integrations, and LLM/RAG systems for a platform that connects engineering knowledge across GitHub, Slack, and other internal sources.
 
-### [ShelfAware](https://github.com/thanosaw/shelfaware) Usually worked on my own branches, so check out the branches!
-> *Real-time smart fridge inventory tracking*
-- **YOLOv11** and **OpenAI GPT-4o API** to detect, classify, and track food items in real-time
-- Provides **recipe suggestions** and **shelf-life tracking** with 98% classification accuracy
+`Next.js` `FastAPI` `Neo4j` `GraphRAG` `LLMs`
+
+---
+
+### [ShelfAware](https://github.com/thanosaw/shelfaware)
+
+**Computer vision for real-world inventory tracking**
+
+Built a real-time system that detects and tracks food inventory using computer vision, with intelligent recipe recommendations and shelf-life awareness layered on top.
+
+> A lot of the interesting work lives outside the default branch.
+
+`Python` `YOLO` `OpenAI` `Computer Vision`
+
+---
 
 ### [GitGrapher](https://github.com/thanosaw/gitgrapher)
-> *Commit history analytics tool*
-- Python-based tool to **analyze repository commit history**
-- Generates graphs and insights for code evolution and team collaboration
+
+**Making Git history easier to understand**
+
+A Python tool for turning repository history into visualizations and insights about how a codebase evolves over time.
+
+`Python` `Git` `Data Visualization`
 
 ---
 
 ## Experience
-**Amazon (2025)** – Software Engineer Intern (Tempe, AZ)
-- Redesigned Amazon's brand enforcement system for **multi-tenant support** with new APIs and a React/Katal front-end
-- Reduced tech debt and accelerated project delivery using **LLM-driven tooling**
 
-**Amazon (2024)** – Software Engineer Intern (Seattle, WA)
-- Developed AWS-based backend to reduce fraudulent product reports by **12,600 per month**
-- Built **DynamoDB and S3** bulk update systems to automate maintenance and cut manual effort by 70%
+I've worked across **large-scale systems, fintech infrastructure, developer platforms, and full-stack products**, including engineering roles at companies ranging from startups to large technology organizations.
 
-**Circle (2024)** – Software Engineer Intern (Boston, MA)
-- Built **microservices and fiat-to-USDC conversion tools** with on-chain transfer support
-- Created an open-source reference app showcasing developer tools
+Some of the problems I've worked on include:
 
----
-
-## Connect With Me
-- **Email:** [uswangandrew@gmail.com](mailto:uswangandrew@gmail.com)
-- **LinkedIn:** [linkedin.com/in/andruww](https://linkedin.com/in/andruww)
-- **GitHub:** [github.com/thanosaw](https://github.com/thanosaw)
+* Multi-tenant platform architecture
+* High-scale backend services
+* Cloud infrastructure and automation
+* Financial and blockchain integrations
+* Internal developer tooling
+* AI-assisted engineering workflows
 
 ---
 
-> *Thanks for visiting! Check out my repositories to see what I've been working on.*
+## Stack
+
+**Languages**
+`Python` `Java` `Kotlin` `C++` `TypeScript` `SQL`
+
+**Backend / Infrastructure**
+`FastAPI` `Node.js` `AWS` `Docker` `Kubernetes` `DynamoDB`
+
+**Frontend**
+`React` `Next.js`
+
+**AI / Data**
+`LLMs` `RAG` `Neo4j` `Computer Vision`
+
+---
+
+## Currently Interested In
+
+Distributed systems, intelligent developer tools, agents, infrastructure, and building software that removes unnecessary work.
+
+---
+
+## Elsewhere
+
+[GitHub](https://github.com/thanosaw) · [LinkedIn](https://linkedin.com/in/andruww)
+
+> Build things. Learn fast. Keep shipping.
